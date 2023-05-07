@@ -1,0 +1,20 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/react
+# Editar en https://www.toptal.com/developers/gitignore?templates=react
+
+### reaccionar ###
+.DS_*
+*.registro
+registros
+**/*.respaldo.*
+**/*.atrás.*
+
+node_modules
+Bower_components
+
+*.sublime*
+
+psd
+pulgar
+bosquejo
+
+# Fin de https://www.toptal.com/developers/gitignore/api/react
