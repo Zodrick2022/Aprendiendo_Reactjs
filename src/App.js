@@ -10,12 +10,6 @@ function App() {
         <h1>Formulario con la libreria MUI</h1>
         <br/>
         <Formulario/>
-        <Checkboxes 
-        texto="Terminos y Condiciones"
-        />
-        <div className='boton'>
-          <Boton/>
-        </div>
       </div>
     </div>
   );
