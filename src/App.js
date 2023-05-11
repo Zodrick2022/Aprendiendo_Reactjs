@@ -1,7 +1,6 @@
 import './App.css';
-import Checkboxes from './componentes/checkbox';
-import Boton from './componentes/boton';
 import Formulario from './componentes/formulario';
+
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import { Stack, TextField } from '@mui/material'
-import React, { useState } from 'react'
+import React from 'react'
 import Boton from './boton';
 import Checkboxes from './checkbox';
 
