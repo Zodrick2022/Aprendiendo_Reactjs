@@ -1,9 +1,11 @@
 body{
+    background-color: #e0e0e0;
+}
+
+.App{
     display: flex;
     text-align: center;
     justify-content: center;
-    background-color: #e0e0e0;
-    margin-top: 2em;
 }
   
 .contenedor-principal{
@@ -14,11 +16,6 @@ body{
   }
   h1{
     font-size: 20px;
-}
-  
-.boton{
-    display: flex;
-    justify-content: center;
 }
 
 .boton{
