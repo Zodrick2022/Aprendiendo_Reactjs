@@ -18,8 +18,6 @@ const navArrayLinks=[
   }
 ]
 
-
-
 function App() {
   return (
     <div className='nabvar'>
@@ -30,8 +28,6 @@ function App() {
         <Route path='/register' element={<Register></Register>} />
       </Routes>
     </div>
-    
-    
   );
 }
 
