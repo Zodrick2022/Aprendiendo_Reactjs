@@ -1,0 +1,5 @@
+npm Create React App -> pesa mas de 280 megabites(es demasiado)
+-----
+vite
+npm create vite@latest (nombre) --template react , y seleccionamos la opcion de react y luego la opcion JavaScript, luego nos vamos a la carpeta y escribimos npm i(para instalarlo)->es mas rapido que npm Create React App y pesa menos de 50 megabites
+luegoen en la carpeta, ejecutamos en la terminal npm run dev

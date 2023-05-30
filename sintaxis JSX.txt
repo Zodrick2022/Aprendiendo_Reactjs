@@ -1,0 +1,2 @@
+class no se puede utilizar sino className, para las clases de CSS 
+for por htmlFor = ciclo en html 
